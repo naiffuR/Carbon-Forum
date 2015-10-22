@@ -5,7 +5,7 @@ if (empty($Lang) || !is_array($Lang))
 
 $Lang = array_merge($Lang, array(
 	'People_Collection' => ' коллекция',
-	'People_Have_Seen' => ' просмотры',
+	'People_Have_Seen' => ' просмотров',
 	'Edit' => 'Редактировать',
 	'Quote' => 'Цитата',
 	'Delete' => 'Удалить',
