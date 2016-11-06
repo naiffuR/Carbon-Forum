@@ -41,6 +41,6 @@ $Lang = array_merge($Lang, array(
 	'Change_Password_Failure' => 'Не удалось изменить пароль',
 	'Password_Do_Not_Modify' => 'Новый пароль не может быть таким же, как оригинальный пароль. ',
 	'Current_Password_Is_Uncorrect' => 'Текущий пароль некорректный',
-	'Passwords_Inconsistent' => 'Пароли не совподают',
+	'Passwords_Inconsistent' => 'Пароли не совпадают',
 	'Forms_Can_Not_Be_Empty' => 'Формы, не могут быть пустыми'
 	));
